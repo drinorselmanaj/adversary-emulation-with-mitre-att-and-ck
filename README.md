@@ -32,3 +32,10 @@ This repository is organized by chapter to mirror the book's structure. Each fol
 - **Browse by Chapter**: Navigate to the folder corresponding to the chapter you are currently reading to find related resources.
 - **Clone the Repository**: To get a local copy of all files, clone this repository using Git.
 
+## Warning
+
+**IMPORTANT**: The contents of this repository are provided for **educational purposes only**. The tools, scripts, and techniques described are intended to support the learning outcomes and foster an understanding of cybersecurity practices within a controlled, legal environment.
+
+**Misuse of any tools or scripts provided in this repository without proper authorization is strictly forbidden**. Unauthorized access to computer systems is illegal and unethical. The user is responsible for complying with all applicable local, state, national, and international laws and regulations, including but not limited to those governing privacy, security, and telecommunications.
+
+You agree to use any resources contained in this repository ethically and in compliance with the law. The authors, contributors, and publishers of "Adversary Emulation with MITRE ATT&CK" and the contents of this repository assume no liability for any misuse of the materials provided herein.
