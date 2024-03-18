@@ -1,0 +1,24 @@
+id: 3a64000f-711a-4580-901a-84e8fdd1015b metadata:
+authors:
+- Drinor Selmanaj
+tags: [network_discovery]
+name: System Network Connections Discovery description: |
+  This technique can be employed by adversaries to catalog network connections asso
+ciated with a compromised system. Through this, they can gain a clearer perspective on communication behaviors, interconnected devices, and network-engaged active pro cesses.
+tactic: discovery
+technique:
+id: T1049
+name: System Network Connections Discovery
+platforms: windows:
+cmd: command: |
+        netstat -an
+        net use
+        net session
+linux: sh:
+command: | netstat -tuln lsof -i
+who -a
+w
+darwin: sh:
+command: | netstat -an lsof -i
+who -a
+w
