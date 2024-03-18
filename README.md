@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for "Adversary Emulation with MITRE AT
 
 ## About the Book
 
-"Adversary Emulation with MITRE ATT&CK" is a definitive guide that provides readers with insights and techniques to understand and emulate adversaries using the MITRE ATT&CK framework. It offers a deep dive into cybersecurity, focusing on accurately emulation cyber attacks to test and improve an organization's defenses.
+This book is a guide that provides readers with insights and techniques to understand and emulate adversaries using the MITRE ATT&CK framework. It offers a deep dive into cybersecurity, focusing on accurately emulating cyber attacks to test and improve an organization's defenses.
 
 ## Repository Structure
 
